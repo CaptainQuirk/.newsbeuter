@@ -1,0 +1,14 @@
+bind-key j down
+bind-key k up
+bind-key K prev
+bind-key J next
+bind-key n next-feed
+bind-key p prev-feed
+bind-key ^U PPAGE
+bind-key ^D NPAGE
+
+color listnormal white black
+color listfocus  white color249 bold
+color listnormal_unread red black
+color listfocus_unread red color249 bold
+color info white color99 bold
