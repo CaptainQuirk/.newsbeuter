@@ -2,80 +2,83 @@
 https://news.ycombinator.com/rss
 
 # FILAMENT GROUP
-https://www.filamentgroup.com/lab/atom.xml
+https://www.filamentgroup.com/lab/atom.xml blog
 
 # SMASHING MAGAZINE
-https://www.smashingmagazine.com/feed/
+https://www.smashingmagazine.com/feed/ blog
 
 # CSS TRICKS
-https://css-tricks.com/feed/
+https://css-tricks.com/feed/ blog css
 
 # A LIST APART
-http://alistapart.com/main/feed
+http://alistapart.com/main/feed blog
 
 # QUIRKSMODE
-https://www.quirksmode.org/blog/index.xml
+https://www.quirksmode.org/blog/index.xml blog javascript css mobile
+
+# 2ALITY
+http://feeds.feedburner.com/2ality?format=xml blog javascript
 
 # WEBPLATFORM NEWS
-https://www.kill-the-newsletter.com/feeds/qp19ilx13jj1exkq56tc.xml
+https://www.kill-the-newsletter.com/feeds/qp19ilx13jj1exkq56tc.xml newsletter
 
 # HISTORY OF THE WEB
-https://www.kill-the-newsletter.com/feeds/8nj3i0xp58ir16sfyig1.xml
+https://www.kill-the-newsletter.com/feeds/8nj3i0xp58ir16sfyig1.xml newsletter
 
 # Twitter feeds
 # -------------
 
-https://twitrss.me/twitter_user_to_rss/?user=MasteringVim twitter
-https://twitrss.me/twitter_user_to_rss/?user=DasSurma twitter
-https://twitrss.me/twitter_user_to_rss/?user=IvanDalmet twitter
-https://twitrss.me/twitter_user_to_rss/?user=gleroypro twitter
-https://twitrss.me/twitter_user_to_rss/?user=tpierrain twitter
-https://twitrss.me/twitter_user_to_rss/?user=iamtzi twitter
-https://twitrss.me/twitter_user_to_rss/?user=goulvench twitter
-https://twitrss.me/twitter_user_to_rss/?user=Sara_harkousse twitter
-https://twitrss.me/twitter_user_to_rss/?user=clementd twitter
-https://twitrss.me/twitter_user_to_rss/?user=notwaldorf twitter
-https://twitrss.me/twitter_user_to_rss/?user=renaudgerson twitter
-https://twitrss.me/twitter_user_to_rss/?user=RudyBaer twitter
-https://twitrss.me/twitter_user_to_rss/?user=alexronsaut twitter
-https://twitrss.me/twitter_user_to_rss/?user=YoannFleuryDev twitter
-https://twitrss.me/twitter_user_to_rss/?user=ericevans0 twitter
-https://twitrss.me/twitter_user_to_rss/?user=VaughnVernon twitter
-https://twitrss.me/twitter_user_to_rss/?user=cyriux twitter
-https://twitrss.me/twitter_user_to_rss/?user=DDD_Borat twitter
-https://twitrss.me/twitter_user_to_rss/?user=commandlinefu twitter
-https://twitrss.me/twitter_user_to_rss/?user=vimgolf twitter
-https://twitrss.me/twitter_user_to_rss/?user=VimGeeks twitter
-https://twitrss.me/twitter_user_to_rss/?user=VimLinks twitter
-https://twitrss.me/twitter_user_to_rss/?user=vimnews twitter
-https://twitrss.me/twitter_user_to_rss/?user=kangax twitter
-https://twitrss.me/twitter_user_to_rss/?user=zigazou twitter
-https://twitrss.me/twitter_user_to_rss/?user=2ec0b4 twitter
-https://twitrss.me/twitter_user_to_rss/?user=chriscoyier twitter
-https://twitrss.me/twitter_user_to_rss/?user=umaar twitter
-https://twitrss.me/twitter_user_to_rss/?user=tameverts twitter
-https://twitrss.me/twitter_user_to_rss/?user=csswizardry twitter
-https://twitrss.me/twitter_user_to_rss/?user=LeaVerou twitter
-https://twitrss.me/twitter_user_to_rss/?user=webAgencyFAIL twitter
-https://twitrss.me/twitter_user_to_rss/?user=ppk twitter
-https://twitrss.me/twitter_user_to_rss/?user=jaffathecake twitter
-https://twitrss.me/twitter_user_to_rss/?user=scottjehl twitter
-https://twitrss.me/twitter_user_to_rss/?user=paul_irish twitter
-https://twitrss.me/twitter_user_to_rss/?user=necolas twitter
-https://twitrss.me/twitter_user_to_rss/?user=SaraSoueidan twitter
+https://twitrss.me/twitter_user_to_rss/?user=MasteringVim twitter "~@MasteringVim"
+https://twitrss.me/twitter_user_to_rss/?user=DasSurma twitter "~@DasSurma"
+https://twitrss.me/twitter_user_to_rss/?user=IvanDalmet twitter "~@IvanDalmet"
+https://twitrss.me/twitter_user_to_rss/?user=gleroypro twitter "~@gleroypro"
+https://twitrss.me/twitter_user_to_rss/?user=tpierrain twitter "~@tpierrain"
+https://twitrss.me/twitter_user_to_rss/?user=iamtzi twitter "~@imatzi"
+https://twitrss.me/twitter_user_to_rss/?user=goulvench twitter "~@goulvench"
+https://twitrss.me/twitter_user_to_rss/?user=Sara_harkousse twitter "~@Sara_harkousse"
+https://twitrss.me/twitter_user_to_rss/?user=clementd twitter "~@clementd"
+https://twitrss.me/twitter_user_to_rss/?user=notwaldorf twitter "~@notwaldorf"
+https://twitrss.me/twitter_user_to_rss/?user=renaudgerson twitter "~@renaudgerson"
+https://twitrss.me/twitter_user_to_rss/?user=RudyBaer twitter "~@RudyBaer"
+https://twitrss.me/twitter_user_to_rss/?user=alexronsaut twitter "~@alexronsaut"
+https://twitrss.me/twitter_user_to_rss/?user=YoannFleuryDev twitter "~@YoannFleuryDev"
+https://twitrss.me/twitter_user_to_rss/?user=ericevans0 twitter "~@ericevans0"
+https://twitrss.me/twitter_user_to_rss/?user=VaughnVernon twitter "~@VaughnVernon"
+https://twitrss.me/twitter_user_to_rss/?user=cyriux twitter "~@cyriux"
+https://twitrss.me/twitter_user_to_rss/?user=DDD_Borat twitter "~@DDD_Borat"
+https://twitrss.me/twitter_user_to_rss/?user=commandlinefu twitter "~@commandlinefu"
+https://twitrss.me/twitter_user_to_rss/?user=vimgolf twitter "~@vimgolf"
+https://twitrss.me/twitter_user_to_rss/?user=VimGeeks twitter "~@VimGeeks"
+https://twitrss.me/twitter_user_to_rss/?user=VimLinks twitter "~@VimLinks"
+https://twitrss.me/twitter_user_to_rss/?user=vimnews twitter "~@vimnews"
+https://twitrss.me/twitter_user_to_rss/?user=kangax twitter "~@kangax"
+https://twitrss.me/twitter_user_to_rss/?user=zigazou twitter "~@zigazou"
+https://twitrss.me/twitter_user_to_rss/?user=2ec0b4 twitter "~@2ec0b4"
+https://twitrss.me/twitter_user_to_rss/?user=chriscoyier twitter "~@chriscoyier"
+https://twitrss.me/twitter_user_to_rss/?user=umaar twitter "~@umaar"
+https://twitrss.me/twitter_user_to_rss/?user=tameverts twitter "~@tameverts"
+https://twitrss.me/twitter_user_to_rss/?user=csswizardry twitter "~@csswizardry"
+https://twitrss.me/twitter_user_to_rss/?user=LeaVerou twitter "~@LeaVerou"
+https://twitrss.me/twitter_user_to_rss/?user=webAgencyFAIL twitter "~@webAgencyFAIL"
+https://twitrss.me/twitter_user_to_rss/?user=ppk twitter "~@ppk"
+https://twitrss.me/twitter_user_to_rss/?user=jaffathecake twitter "~@jaffathecake"
+https://twitrss.me/twitter_user_to_rss/?user=scottjehl twitter "~@scottjehl"
+https://twitrss.me/twitter_user_to_rss/?user=paul_irish twitter "~@paul_irish"
+https://twitrss.me/twitter_user_to_rss/?user=necolas twitter "~@necolas"
+https://twitrss.me/twitter_user_to_rss/?user=SaraSoueidan twitter "~@SaraSoueidan"
 
 
 # REDDIT
 # ------
 
 # Webdev
-https://www.reddit.com/r/webdev.rss
+https://www.reddit.com/r/webdev.rss reddit
 
 # Unixporn
-https://www.reddit.com/r/unixporn.rss
+https://www.reddit.com/r/unixporn.rss reddit
 
 # DDD
-https://www.reddit.com/r/dddesign.rss
+https://www.reddit.com/r/dddesign.rss reddit
 
 
 # GITHUB
