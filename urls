@@ -75,5 +75,8 @@ https://twitrss.me/twitter_user_to_rss/?user=shirleyalmosni twitter "~@shirleyal
 # GITHUB
 # ------
 
+# ALL
+http://github-trends.ryotarai.info/rss/github_trends_all_daily.rss trending github "~trending-all"
+
 # JAVASCRIPT
 http://github-trends.ryotarai.info/rss/github_trends_javascript_daily.rss trending "~trending-javascript"
